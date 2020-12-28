@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chj93/npm-package-test/issues"
   },
-  "homepage": "https://github.com/chj93/npm-package-test#readme"
+  "homepage": "https://github.com/chj93/npm-package-test#readme",
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com/"
+}
 }
